@@ -1,13 +1,13 @@
-```markdown
 # YoutubeDownloader
 
 A simple class to download YouTube videos as MP3 or other formats using the `notube.net` service. It automatically handles the process of fetching the video data, initializing the download, and retrieving the download link.
 
 ## Installation
 
-To install the required dependencies, run:
+1. Clone the repository or download the files.
+2. Run `npm install` to install dependencies.
 
-```bash
+```
 npm install axios
 ```
 
@@ -67,4 +67,3 @@ This method initializes the download process using the provided video data.
 ## License
 
 MIT License
-```
